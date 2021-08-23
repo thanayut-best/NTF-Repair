@@ -1,7 +1,3 @@
-/*
-Awesome Template
-http://www.templatemo.com/preview/templatemo_450_awesome
-*/
 
 body
 	{
@@ -204,7 +200,7 @@ header .social-icon li a
 /* start home */
 #home
 	{
-		background: url('../images/home-bg3.jpg') no-repeat;
+		background: url('../images/home-bg.jpg') no-repeat;
 		background-size: cover;
 		padding-top: 160px;
 		padding-bottom: 100px;
